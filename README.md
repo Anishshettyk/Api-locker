@@ -1,2 +1,2 @@
 # Api locker
- a database of all free apis in the web
+ a collection of all free apis in the web
